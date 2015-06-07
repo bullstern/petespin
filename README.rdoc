@@ -1,6 +1,0 @@
-# One Month Rails 
-
-This is petes pin sample application for 
-[*One Month Rails*] (http://onemonthrails.com)
-
-by [Tom Stern]
